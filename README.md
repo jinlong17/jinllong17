@@ -4,7 +4,7 @@
  * @Author: Jinlong Li CSU PhD
  * @Date: 2023-03-21 16:34:46
  * @LastEditors: Jinlong Li CSU PhD
- * @LastEditTime: 2023-03-21 16:40:40
+ * @LastEditTime: 2023-03-21 16:52:02
 -->
 ### Hi there, I'm [Jinlong Li(李金龙 in Chinese)!](https://jinlong17.github.io/) 👋
 
@@ -33,7 +33,10 @@ a computer vision engineer at [OPPO R&D US](https://www.oppo.com/en/). I have se
 
 [![Jinlong's github stats](https://github-readme-stats.vercel.app/api?username=jinlong17&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) -->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jinlong17&left_color=green&right_color=blue)
 <!--
 **yzhao062/yzhao062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
